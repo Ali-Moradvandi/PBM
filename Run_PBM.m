@@ -8,9 +8,10 @@
 % ODE implementation of the mechanstic model of purple bactria (PBM) 
 % in an open raceway reactor.
 %
-% The model is discussed in the paper entitiled "A mechanistic model 
-% for purple phototrophic raceway reactors: microbial selection dynamics 
-% and wastewater treatment simulation".
+% The model is discussed in the paper entitiled "A novel mechanistic 
+modelling approach for microbial selection dynamics:
+towards improved design and control of raceway reactors
+for purple bacteria".
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
