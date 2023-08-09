@@ -9,9 +9,9 @@
 % in an open raceway reactor.
 %
 % The model is discussed in the paper entitiled "A novel mechanistic 
-modelling approach for microbial selection dynamics:
-towards improved design and control of raceway reactors
-for purple bacteria".
+% modelling approach for microbial selection dynamics:
+% towards improved design and control of raceway reactors
+% for purple bacteria".
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
